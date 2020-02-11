@@ -1,0 +1,39 @@
+{
+"currentPage": {
+"displayTemplate": "expertMode",
+"displayName": "Mode Expert Ligue 1",
+"autorefresh": 30000
+},
+"rubriques": [
+{
+"displayTemplate": "sportVitrine",
+"displayName": "Match",
+"autorefresh": 30000,
+"URLPage": "https://hodor.canalplus.pro/api/v2/mycanal/expertMode/04dc25f265b48d2d9d32234e763a1fa5/sportVitrine/id/6905/event/6b464546-79ca-4d32-8f53-5541fb0d3412"
+},
+{
+"displayTemplate": "highlights",
+"displayName": "Temps forts",
+"autorefresh": 30000,
+"URLPage": "https://hodor.canalplus.pro/api/v2/mycanal/expertMode/04dc25f265b48d2d9d32234e763a1fa5/highlights/100797/events/6b464546-79ca-4d32-8f53-5541fb0d3412"
+},
+{
+"displayTemplate": "sportVitrine",
+"displayName": "Composition",
+"autorefresh": 30000,
+"URLPage": "https://hodor.canalplus.pro/api/v2/mycanal/expertMode/04dc25f265b48d2d9d32234e763a1fa5/sportVitrine/id/6906/event/6b464546-79ca-4d32-8f53-5541fb0d3412"
+},
+{
+"displayTemplate": "sportCalendar",
+"displayName": "Résultats",
+"autorefresh": 30000,
+"URLPage": "https://hodor.canalplus.pro/api/v2/mycanal/page/04dc25f265b48d2d9d32234e763a1fa5/6417.json?season=2019&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&sportEventID=6b464546-79ca-4d32-8f53-5541fb0d3412&roundID=7d4c40f1-22ae-43d2-abf5-c28c765d701d"
+},
+{
+"displayTemplate": "sportRanking",
+"displayName": "Classement",
+"autorefresh": 30000,
+"URLPage": "https://hodor.canalplus.pro/api/v2/mycanal/page/04dc25f265b48d2d9d32234e763a1fa5/6418.json?season=2019&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&sportEventID=6b464546-79ca-4d32-8f53-5541fb0d3412&homeTeam=ba6c2313-d081-4605-ae9c-e2558cc7ed96&awayTeam=d7e76545-2ebc-4900-8da8-0c4204f391b2"
+}
+]
+}
