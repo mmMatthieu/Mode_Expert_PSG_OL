@@ -21,7 +21,7 @@
 "displayTemplate": "sportVitrine",
 "displayName": "Composition",
 "autorefresh": 30000,
-"URLPage": "https://hodor.canalplus.pro/api/v2/mycanal/expertMode/04dc25f265b48d2d9d32234e763a1fa5/sportVitrine/id/6906/event/6b464546-79ca-4d32-8f53-5541fb0d3412"
+"URLPage": "https://gist.githubusercontent.com/mmMatthieu/7966cc95ca38634e2d05fe8e362d3c99/raw/88e2b48f3db870017fea81943d730d5510485da4/sportVitrine_withToggle.json"
 },
 {
 "displayTemplate": "sportCalendar",
